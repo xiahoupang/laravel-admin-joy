@@ -1,0 +1,15 @@
+{
+    "name": "lance/laravel-admin-joy",
+    "description": "laravel-admin is mather facker",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liyongxiang",
+            "email": "liyongxiang8847@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
